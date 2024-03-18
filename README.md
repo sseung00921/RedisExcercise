@@ -3,4 +3,4 @@
   -Redis 파트
 </h1>
 
-해당 강의를 수강하며 클론 코딩해본 프로젝트
+해당 강의(https://fastcampus.co.kr/dev_online_befinal) 를 수강하며 클론 코딩해본 프로젝트
